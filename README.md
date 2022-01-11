@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MachineLearning_DataScience_Projects](https://github.com/AlimamHu/MachineLearning_DataScience_Projects.git)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/alimam-hussain/ , https://github.com/alimamhu,](https://www.linkedin.com/in/alimam-hussain/ , https://github.com/alimamhu,)
+- 👨‍💻 All of my projects are available at [ https://github.com/alimamhu,]( https://github.com/alimamhu,)
 
 - 💬 Ask me about **python3, sql, excel, web development**
 
