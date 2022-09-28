@@ -28,23 +28,25 @@ check out **my [Portfolio](https://alimam.netlify.app/)**
 <!-- contact -->
 
 <h2 align="center">📫 How to Reach me</h2>
- 
- <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin:- " height="30" width="40" /><br> [linkedin.com/in/alimam-hussain/](linkedin.com/in/alimam-hussain/)
+ <p align="center">
+ <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin:- " height="30" width="40" /><br> 
+ <a href="https://www.linkedin.com/in/alimam-hussain/">linkedin.com/in/alimam-hussain/</a>
+</p>
 
 
- 
- 
+  <p align="center">
 <img src="https://img.icons8.com/color-glass/452/gmail.png" height="30" width="30" alt="Gmail:- ">
+<br> <a href="alimamhussain8619@gmail.com">alimamhussain8619@gmail.com</a>
+ </p>
 
  
-**alimamhussain8619@gmail.com**
  
-
+ 
  
 
 
 <!-- skills -->
- 
+ <hr>
 <h2 align="center">Languages and Tools:</h2>
 
  <p align="center">
