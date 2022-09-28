@@ -45,6 +45,7 @@ check out **my [Portfolio](https://alimam.netlify.app/)**
 
 <!-- skills -->
  
+<h2 align="center">Languages and Tools:</h2>
 
  <p align="center">
   <img src="https://img.icons8.com/color/344/sass.png" alt="git" width="40" height="40"/> 
