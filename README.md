@@ -1,20 +1,64 @@
 <h1 align="center">Hi 👋, I'm Alimam Husain</h1>
-<h3 align="center">A passionate Data Analysis from India</h3>
+<h3 align="center">Web Developer | Bootstrap Developer</h3>
 
-- 🔭 I’m currently working on [MachineLearning_DataScience_Projects](https://github.com/AlimamHu/MachineLearning_DataScience_Projects.git)
 
-- 👨‍💻 All of my projects are available at [ https://github.com/alimamhu,]( https://github.com/alimamhu,)
+hi,
+I am Alimam Hussain, I love only three thing,
 
-- 💬 Ask me about **python3, sql, excel, web development**
+1.) Learning new Things
 
-- 📫 How to reach me **alimamhussain8619@gmail.com**
+2.) Solving the problem in Web Development and 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alimam-hussain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimam hussain" height="30" width="40" /></a>
+3.) Drawing Design form Website to Logo.
+
+and my hobby is playing Chess & doing  coding
+
+<hr>
+
+<h2 align="center">what i did in past? </h2>
+
+ 
+
+check out **my [Portfolio](https://alimam.netlify.app/)**
+
+👨‍💻 All of my projects are available at [ **Projects** ]( https://github.com/alimamhu,)
+ 
+<hr>
+ 
+<!-- contact -->
+
+<h2 align="center">📫 How to Reach me</h2>
+ 
+ <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin:- " height="30" width="40" /><br> [linkedin.com/in/alimam-hussain/](linkedin.com/in/alimam-hussain/)
+
+
+ 
+ 
+<img src="https://img.icons8.com/color-glass/452/gmail.png" height="30" width="30" alt="Gmail:- ">
+
+ 
+**alimamhussain8619@gmail.com**
+ 
+
+ 
+
+
+<!-- skills -->
+ 
+
+ <p align="center">
+  <img src="https://img.icons8.com/color/344/sass.png" alt="git" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="git" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/344/css3.png" alt="git" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="git" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/344/bootstrap.png" alt="git" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/344/wordpress.png" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+ </p>
+  <p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="html5" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="html5" width="40" height="40"/></a> </p>
+<hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimamhu&show_icons=true&locale=en&layout=compact" alt="alimamhu" /></p>
+let's talk about Computers :)
