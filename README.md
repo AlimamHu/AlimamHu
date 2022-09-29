@@ -19,7 +19,7 @@ and my hobby is playing Chess & doing  coding
 
  
 
-check out **my [Portfolio](https://alimam.netlify.app/)**
+check out **my [Portfolio](https://alimam-husain.netlify.app/)**
 
 👨‍💻 All of my projects are available at [ **Projects** ]( https://github.com/alimamhu,)
  
