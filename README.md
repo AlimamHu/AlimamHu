@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alimam Husain</h1>
-<h3 align="center">Web Developer | Bootstrap Developer</h3>
+<h3 align="center">Data Analysis  || Web Developer </h3>
 
 
-hi,
-I am Alimam Hussain, I love only three thing,
-
-1.) Learning new Things
-
-2.) Solving the problem in Web Development and 
-
-3.) Drawing Design form Website to Logo.
-
-and my hobby is playing Chess & doing  coding
+Experienced in Advanced Excel, MySQL, Python, and PowerBI, I thrive in utilizing my multifaceted skill set to drive collaborative growth and offer comprehensive solutions. Passionate about leveraging data-driven insights to support strategic decision-making and foster continuous improvement.
 
 <hr>
 
